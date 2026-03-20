@@ -34,7 +34,6 @@ I love building robust applications — and then (theoretically) breaking them t
 ---
 
 ### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzzywood&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzywood&layout=compact&theme=radical)
 
 ---
