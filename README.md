@@ -29,6 +29,11 @@ I love building robust applications — and then (theoretically) breaking them t
 *Deep dives into my security research and coding adventures.*
 
 <!-- BLOG-POST-LIST:START -->
+- [Python - The Stylish Way](https://florin.woeginger.de/blog/clean-python/)
+- [HeroCTF v7: Tomwhat](https://florin.woeginger.de/blog/heroctf-tomwhat/)
+- [Plattypwn Quark](https://florin.woeginger.de/blog/plattypwn-quark/)
+- [Hack The Box - Code Writeup](https://florin.woeginger.de/blog/htb-code/)
+- [Hack the Box - Titanic](https://florin.woeginger.de/blog/htb-titanic/)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
