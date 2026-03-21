@@ -49,11 +49,3 @@ I'm a big fan of terminal-centric workflows and automation. Feel free to peek in
 *  **[Nvim Config](https://github.com/fuzzywood/nvim-config)** - My personalized Neovim setup (because VS Code is too easy, right?).
 *  **[Dotfiles](https://github.com/fuzzywood/dotfiles)** - My Zsh, Tmux, and system configurations to keep things efficient.
 
----
-
-### 📫 Connect with me
-- **Blog:** [Link to your blog]
-- **LinkedIn:** [Your Profile]
-- **TryHackMe / HTB:** [Optional link]
-
-*"IndentationError: expected an indented block" – The story of my life.* ☕
