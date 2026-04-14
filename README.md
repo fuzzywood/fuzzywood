@@ -2,7 +2,7 @@
 
 ### Web Developer & Security Enthusiast
 
-I love building robust applications — and then (theoretically) breaking them to make them even more secure. My focus lies at the intersection of clean Python code and defensive security strategies.
+I love building robust applications — and then (theoretically) breaking them to make them even more secure. My focus lies at the intersection of clean Python code and security strategies.
 
 ---
 
